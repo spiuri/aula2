@@ -1,0 +1,19 @@
+{
+  "name": "aula2",
+  "version": "1.0.0",
+  "description": "aula 03/05",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiuri/aula2.git"
+  },
+  "author": "iuri trajano de matos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/spiuri/aula2/issues"
+  },
+  "homepage": "https://github.com/spiuri/aula2#readme"
+}
