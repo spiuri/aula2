@@ -1,19 +1,21 @@
 {
-  "name": "aula2",
-  "version": "1.0.0",
-  "description": "aula 03/05",
-  "main": "index.html",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/spiuri/aula2.git"
-  },
-  "author": "iuri trajano de matos",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/spiuri/aula2/issues"
-  },
-  "homepage": "https://github.com/spiuri/aula2#readme"
-}
+ "name": "aula2",
+ "version": "1.0.0",
+ "description": “Este é o projeto NodeJS básico",
+ "main": "index.html",
+ "scripts": {
+ "start": "npm run lite",
+ "test": "echo \"Error: no test specified\" && exit 1",
+ "lite": "lite-server"
+ },
+ "repository": {
+ "type": "git",
+ "url": “https://github.com/spiuri/aula2.git"
+ },
+ "author": “Seu nome",
+ "license": "ISC",
+ "homepage": “https://github.com/spiuri/aula2.git",
+ "devDependencies": {
+ "lite-server": "^2.2.2"
+ }
+} 
